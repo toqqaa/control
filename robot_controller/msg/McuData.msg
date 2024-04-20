@@ -1,0 +1,10 @@
+float64 RobotPose_x
+float64 RobotPose_y
+float64 RobotPose_theta
+
+float64 RobotLinearVel
+float64 RobotAngularVel
+
+float64 IMUOrientation
+float64 IMUAngularVel
+float64 IMULinearAcc
